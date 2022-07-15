@@ -1,0 +1,17 @@
+.about_details {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.about_details h1 {
+  font-size: 25px;
+  font-weight: 600;
+}
+.about_details p {
+  text-align: justify;
+}

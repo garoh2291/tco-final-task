@@ -1,0 +1,6 @@
+.about_us_layout {
+  width: 100%;
+  height: calc(100vh - 50px);
+  display: flex;
+  align-items: center;
+}
