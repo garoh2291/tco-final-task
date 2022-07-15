@@ -12,7 +12,7 @@ export const AboutPhotoPage = () => {
         <a href="https://www.linkedin.com/in/garnik-hovsepyan-582519189/">
           <i className="bx bxl-linkedin-square"></i>
         </a>
-        <a href="https://github.com/garoh2291">
+        <a href="https://github.com/garoh2291/tco-final-task.git">
           <i className="bx bxl-github"></i>{" "}
         </a>
       </div>
